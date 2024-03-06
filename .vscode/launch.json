@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HotelBookingApp",
+            "request": "launch",
+            "mainClass": "HotelBooking.HotelBookingApp",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "HotelBookingAppScV",
+            "request": "launch",
+            "mainClass": "HotelBooking.HotelBookingAppScV",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "BloodLabApp",
+            "request": "launch",
+            "mainClass": "Bloodlab.BloodLabApp",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "BloodLabAppScV",
+            "request": "launch",
+            "mainClass": "BloodlabScV.BloodLabAppScV",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "BloodLabAppScV",
+            "request": "launch",
+            "mainClass": "Bloodlab.BloodLabAppScV",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HotelBookingAppScV",
+            "request": "launch",
+            "mainClass": "HotelBookingScV.HotelBookingAppScV",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "LeapYearAppScV",
+            "request": "launch",
+            "mainClass": "LeapYearScV.LeapYearAppScV",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperScissorsApp",
+            "request": "launch",
+            "mainClass": "RockPaperScissors.RockPaperScissorsApp",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "RockScissorsPaperAppScV",
+            "request": "launch",
+            "mainClass": "RockScissorsPaperScV.RockScissorsPaperAppScV",
+            "projectName": "week5_7dae807d"
+        },
+        {
+            "type": "java",
+            "name": "VenuesAppScV",
+            "request": "launch",
+            "mainClass": "Venues.VenuesAppScV",
+            "projectName": "week5_7dae807d"
+        }
+    ]
+}
